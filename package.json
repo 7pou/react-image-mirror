@@ -1,6 +1,6 @@
 {
   "name": "react-image-mirror",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "image显示容器，用于代替img，提供图片剪切显示功能",
   "main": "dist/bundle.js",
   "scripts": {
